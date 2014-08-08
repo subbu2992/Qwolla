@@ -44,6 +44,9 @@ hr{
 	border:0;
 }
 
+
+
+
 .social a i{
    display:inline-block;
    width:30px;
@@ -544,17 +547,10 @@ footer .copy{
 		width:100%;
 	}
 	
-	header{
-		height:auto;
-	}
 	
-	header .logo{
-		text-align:center;
-	}
+	
 	
 	header .navigation{
-		float:none !important;
-		text-align:center;
 	}
 	
 	.hero .intro{
@@ -582,3 +578,4 @@ footer .copy{
 	}
 	
 }
+
